@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|c:\\users\\aqila\\documents\\semester 3\\pemograman_ii\\pemrogramanii_714230068\\tugas besar\\perumahan\\perumahan\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|solutionrelative:perumahan\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|c:\\users\\aqila\\documents\\semester 3\\pemograman_ii\\pemrogramanii_714230068\\tugas besar\\perumahan\\perumahan\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|solutionrelative:perumahan\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|c:\\users\\aqila\\documents\\semester 3\\pemograman_ii\\pemrogramanii_714230068\\tugas besar\\perumahan\\perumahan\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|solutionrelative:perumahan\\view\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|c:\\users\\aqila\\documents\\semester 3\\pemograman_ii\\pemrogramanii_714230068\\tugas besar\\perumahan\\perumahan\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D4762C-6B11-4538-ABE7-BED32556D89F}|perumahan\\perumahan.csproj|solutionrelative:perumahan\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Register.cs",
+              "RelativeDocumentMoniker": "perumahan\\view\\Register.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Register.cs [Design]",
+              "RelativeToolTip": "perumahan\\view\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:29:19.708Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Login.cs",
+              "RelativeDocumentMoniker": "perumahan\\view\\Login.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Login.cs [Design]",
+              "RelativeToolTip": "perumahan\\view\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:28:34.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "perumahan\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Form1.cs",
+              "RelativeToolTip": "perumahan\\view\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:23:44.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "perumahan\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aqila\\Documents\\SEMESTER 3\\PEMOGRAMAN_II\\pemrogramanII_714230068\\Tugas Besar\\perumahan\\perumahan\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "perumahan\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:29:11.033Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
