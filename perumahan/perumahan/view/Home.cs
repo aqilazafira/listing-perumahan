@@ -19,12 +19,12 @@ namespace perumahan.view
 
         private void fileToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Application.Exit();
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Close();
+            
         }
     }
 }

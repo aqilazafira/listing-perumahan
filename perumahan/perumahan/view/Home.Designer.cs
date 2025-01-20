@@ -30,7 +30,6 @@
         {
             menuStrip1 = new MenuStrip();
             fileToolStripMenuItem = new ToolStripMenuItem();
-            exitToolStripMenuItem = new ToolStripMenuItem();
             listToolStripMenuItem = new ToolStripMenuItem();
             daftarRumahToolStripMenuItem = new ToolStripMenuItem();
             favoritToolStripMenuItem = new ToolStripMenuItem();
@@ -48,18 +47,10 @@
             // 
             // fileToolStripMenuItem
             // 
-            fileToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { exitToolStripMenuItem });
             fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            fileToolStripMenuItem.Size = new Size(50, 20);
-            fileToolStripMenuItem.Text = "Menu";
+            fileToolStripMenuItem.Size = new Size(38, 20);
+            fileToolStripMenuItem.Text = "Exit";
             fileToolStripMenuItem.Click += fileToolStripMenuItem_Click;
-            // 
-            // exitToolStripMenuItem
-            // 
-            exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new Size(180, 22);
-            exitToolStripMenuItem.Text = "Exit";
-            exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
             // listToolStripMenuItem
             // 
@@ -71,24 +62,27 @@
             // daftarRumahToolStripMenuItem
             // 
             daftarRumahToolStripMenuItem.Name = "daftarRumahToolStripMenuItem";
-            daftarRumahToolStripMenuItem.Size = new Size(180, 22);
+            daftarRumahToolStripMenuItem.Size = new Size(147, 22);
             daftarRumahToolStripMenuItem.Text = "Daftar Rumah";
             // 
             // favoritToolStripMenuItem
             // 
             favoritToolStripMenuItem.Name = "favoritToolStripMenuItem";
-            favoritToolStripMenuItem.Size = new Size(180, 22);
+            favoritToolStripMenuItem.Size = new Size(147, 22);
             favoritToolStripMenuItem.Text = "Favorit";
             // 
             // Home
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.R;
+            BackgroundImageLayout = ImageLayout.Zoom;
             ClientSize = new Size(745, 405);
             Controls.Add(menuStrip1);
             IsMdiContainer = true;
             MainMenuStrip = menuStrip1;
             Name = "Home";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Home";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
@@ -100,7 +94,6 @@
 
         private MenuStrip menuStrip1;
         private ToolStripMenuItem fileToolStripMenuItem;
-        private ToolStripMenuItem exitToolStripMenuItem;
         private ToolStripMenuItem listToolStripMenuItem;
         private ToolStripMenuItem daftarRumahToolStripMenuItem;
         private ToolStripMenuItem favoritToolStripMenuItem;

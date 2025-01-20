@@ -57,7 +57,7 @@
             button2.Name = "button2";
             button2.Size = new Size(142, 23);
             button2.TabIndex = 4;
-            button2.Text = "Remove From Favorit";
+            button2.Text = "Remove From Favorite";
             button2.UseVisualStyleBackColor = true;
             // 
             // Favorit

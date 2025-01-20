@@ -1,4 +1,5 @@
-﻿using System;
+﻿using perumahan.controller;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +13,16 @@ namespace perumahan.view
 {
     public partial class DaftarRumah : Form
     {
+        Koneksi koneksi = new Koneksi();
+
         public DaftarRumah()
         {
             InitializeComponent();
+        }
+
+        public void Tampil()
+        {
+            dataPerumahan.DataSource = koneksi.ShowData("SELECT * FROM t_perumahan");
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -28,6 +36,11 @@ namespace perumahan.view
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DaftarRumah_Load(object sender, EventArgs e)
         {
 
         }
