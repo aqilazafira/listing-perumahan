@@ -51,9 +51,9 @@
             // 
             // btnLogin
             // 
-            btnLogin.Location = new Point(622, 377);
+            btnLogin.Location = new Point(622, 379);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(75, 25);
+            btnLogin.Size = new Size(75, 23);
             btnLogin.TabIndex = 5;
             btnLogin.Text = "login";
             btnLogin.UseVisualStyleBackColor = true;
@@ -64,11 +64,11 @@
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Arial", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(125, 125, 125);
-            label1.Location = new Point(202, 116);
+            label1.Location = new Point(150, 116);
             label1.Name = "label1";
-            label1.Size = new Size(378, 22);
+            label1.Size = new Size(445, 22);
             label1.TabIndex = 6;
-            label1.Text = "WELCOME TO SISTEM LISTING RUMAH";
+            label1.Text = "SELAMAT DATANG DI SISTEM LISTING RUMAH";
             // 
             // label2
             // 
@@ -76,7 +76,7 @@
             label2.BackColor = Color.Transparent;
             label2.Font = new Font("Arial", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = Color.FromArgb(125, 125, 125);
-            label2.Location = new Point(240, 138);
+            label2.Location = new Point(218, 138);
             label2.Name = "label2";
             label2.Size = new Size(308, 22);
             label2.TabIndex = 7;
@@ -88,7 +88,7 @@
             label3.BackColor = Color.Transparent;
             label3.Font = new Font("Trebuchet MS", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label3.ForeColor = Color.FromArgb(125, 125, 125);
-            label3.Location = new Point(265, 179);
+            label3.Location = new Point(239, 179);
             label3.Name = "label3";
             label3.Size = new Size(266, 18);
             label3.TabIndex = 8;
@@ -96,7 +96,7 @@
             // 
             // btnRegister
             // 
-            btnRegister.Location = new Point(519, 379);
+            btnRegister.Location = new Point(541, 379);
             btnRegister.Name = "btnRegister";
             btnRegister.Size = new Size(75, 23);
             btnRegister.TabIndex = 9;

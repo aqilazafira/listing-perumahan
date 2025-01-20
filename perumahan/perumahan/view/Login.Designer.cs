@@ -40,7 +40,7 @@
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
             label1.Font = new Font("Arial", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(344, 85);
+            label1.Location = new Point(337, 85);
             label1.Name = "label1";
             label1.Size = new Size(70, 22);
             label1.TabIndex = 0;
